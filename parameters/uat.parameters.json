@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "environmentType": {
+            "value": "prod"
+        },
+        "postgreSQLServerName": {
+            "value": "agalvez-dbsrv-uat"
+        },
+        "postgreSQLDatabaseName": {
+            "value": "agalvez-db-uat"
+        },
+        "appServicePlanName": {
+            "value": "agalvez-asp-uat"
+        },
+        "appServiceAPIAppName": {
+            "value": "agalvez-be-uat"
+        },
+        "appServiceAppName": {
+            "value": "agalvez-fe-uat"
+        },
+        "azureMonitorName": {
+        "value": "agalvez-am-uat"
+        },
+        "appInsightsName": {
+        "value": "agalvez-ai-uat"
+        },
+        "location": {
+            "value": "UK West"
+        }
+    }
+}
