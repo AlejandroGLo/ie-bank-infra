@@ -6,22 +6,28 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "aguadamillas-dbsrv-dev"
+            "value": "avgalvez-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "aguadamillas-db-dev"
+            "value": "agalvez-db-dev"
         },
         "appServicePlanName": {
-            "value": "aguadamillas-asp-dev"
+            "value": "agalvez-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "aguadamillas-be-dev"
+            "value": "agalvez-be-dev"
         },
         "appServiceAppName": {
-            "value": "aguadamillas-fe-dev"
+            "value": "agalvez-fe-dev"
         },
+        "azureMonitorName": {
+            "value": "agalvez-am-dev"
+            },
+        "appInsightsName": {
+            "value": "agalvez-ai-dev"
+            },  
         "location": {
-            "value": "North Europe"
+            "value": "Korea Central"
         }
     }
 }
